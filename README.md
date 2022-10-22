@@ -32,7 +32,12 @@
 
 
 # _About Project_
-This is not a clone of the Spotify website. It is just a simple music website. I just named it Spotify 2.0, it's not a clone. So please don't compare it with the original website.
+This is group project created by team of four and completed within 5 days 
+
+<h1>#Teck Stack</h1>
+<h2>Html</h2>
+<h2>Css</h2>
+<h2>Bootstrap</h2>
 
 
 
