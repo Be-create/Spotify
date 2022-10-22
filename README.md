@@ -1,8 +1,7 @@
+![spotify](https://user-images.githubusercontent.com/73729386/197356618-c132231d-c68f-402e-bb9a-a0912993c168.png)
 # _[Spotify](https://new-spotify-clone.vercel.app/)_
 
-![Spotify2 0](https://user-images.githubusercontent.com/90378786/197281403-a33d8c78-21b4-486b-9064-02a9c28ec76e.png)
 
----
 
 # _Music_
   An art of sound in time that expresses ideas and emotions in significant forms through the elements of rhythm, melody, harmony, and color.
