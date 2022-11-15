@@ -83,8 +83,7 @@ input{
     
 }
 #container{
-   background-image:url(	https://support.scdn.co/web/_next/static/assets/e0b55c2/search-desktop.webp
-   )
+   background-color: blue;
 }
 #container{
     background-size: cover;
